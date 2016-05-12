@@ -1,0 +1,7 @@
+<rules version="2">
+  <docMode>
+    <domain docMode="8">epmdev.csumb.edu:19000<path docMode="8">/workspace/index.jsp</path></domain>
+    <domain docMode="8">reporting.csumb.edu:4443<path docMode="8">/workspace/index.jsp</path></domain>
+  </docMode>
+  <emie />
+</rules>
